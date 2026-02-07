@@ -34,11 +34,22 @@ Being from python background , I am into Machine Learning. Alongside I am explor
 
 ### 📊 My GitHub Analytics:
 
-| **GitHub Stats** | **Most Used Languages** |
-| :---: | :---: |
-| ![My Stats](https://github-readme-stats.vercel.app/api?username=sohamjana2k25-prog&show_icons=true&theme=dark)](https://github.com/sohamjana2k25-prog) | [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamjana2k25-prog&layout=compact&theme=dark)](https://github.com/sohamjana2k25-prog) |
-
----
+ <div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/sohamjana2k25-prog">
+          <img src="https://github-readme-stats.vercel.app/api?username=sohamjana2k25-prog&show_icons=true&theme=dark" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sohamjana2k25-prog">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamjana2k25-prog&layout=compact&theme=dark" alt="Most Used Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
