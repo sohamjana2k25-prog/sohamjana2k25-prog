@@ -46,7 +46,7 @@ Being from python background , I am into Machine Learning. Alongside I am explor
       </td>
       <td>
         <a href="https://github.com/sohamjana2k25-prog">
-          <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=sohamjana2k25-prog&layout=compact&theme=dark" alt="Most Used Languages" />
+          ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamjana2k25-prog&layout=compact&langs_count=5&theme=github_dark&hide_border=true)
         </a>
       </td>
     </tr>
