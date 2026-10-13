@@ -1,9 +1,9 @@
 # Wsp, Soham Here 👋
 
-I am a **B.Tech Computer Science and Engineering student** at TMSL (MAKAUT) with a focus on AI, Machine Learning, and Backend Development.And I do competitve programming on codeforces and leetcode in my free time :D
+I am a **B.Tech Computer Science and Engineering student** at TMSL (MAKAUT) with a focus on AI, Machine Learning, and Backend Development. And I do competitive programming on Codeforces and LeetCode in my free time :D
 
-### 🚀 What I'm working on:
-Being from python background , I am into Machine Learning. Alongside I am exploring back-end develpoment. Mastering Java to learn Springboot Hibernate and Microservices in near future. I have obtained Pupil in codeforces and 2 star in codechef
+### What I'm working on:
+Being from a Python background, I am into Machine Learning. Alongside, I am exploring backend development—mastering Java to learn Spring Boot, Hibernate, and Microservices in the near future. I have obtained Pupil on Codeforces and 2-star on CodeChef.
 
 ---
 
@@ -32,8 +32,6 @@ Being from python background , I am into Machine Learning. Alongside I am explor
 
 ---
 
-
-
 ### 📊 My GitHub Analytics
 
 <div align="center">
@@ -46,14 +44,14 @@ Being from python background , I am into Machine Learning. Alongside I am explor
       </td>
       <td>
         <a href="https://github.com/sohamjana2k25-prog">
-          <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=sohamjana2k25-prog&layout=compact&theme=dark" alt="Most Used Languages" />
+          <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=sohamjana2k25-prog&layout=compact&theme=dark&hide=javascript,typescript" alt="Most Used Languages" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-
+---
 
 ### 📫 Connect with me:
-www.linkedin.com/in/soham-jana-662573373
+[LinkedIn](https://www.linkedin.com/in/soham-jana-662573373)
