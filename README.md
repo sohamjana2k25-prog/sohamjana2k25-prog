@@ -44,7 +44,7 @@ Being from a Python background, I am into Machine Learning. Alongside, I am expl
       </td>
       <td>
         <a href="https://github.com/sohamjana2k25-prog">
-          <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=sohamjana2k25-prog&layout=compact&theme=dark&hide=javascript,typescript" alt="Most Used Languages" />
+          <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=sohamjana2k25-prog&layout=compact&theme=dark&hide=javascript,typescript,JavaScript,TypeScript&v=2" alt="Most Used Languages" />
         </a>
       </td>
     </tr>
